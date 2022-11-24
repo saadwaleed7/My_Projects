@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1623026645 source:d:\ahmed\language\c++\schedule_event\main.cpp
+	<iostream>
+	"event_list.h"
+
+1623021679 d:\ahmed\language\c++\schedule_event\include\event_list.h
+	<string>
+
+1623026514 source:d:\ahmed\language\c++\schedule_event\src\event_list.cpp
+	"event_list.h"
+	<iostream>
+	<fstream>
+
